@@ -16,3 +16,7 @@
     <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
   </li>
 {% endfor %}
+
+<br>
+<hr>
+<h2><a href="{{ tag | slugify | prepend: '/blog/' | relative_url }}">List of All Posts</a></h2>
