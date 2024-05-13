@@ -1,23 +1,9 @@
-"USENIX ATC":
-  url: https://www.usenix.org/conference/atc24
-  # color: "#00369f"
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
 
-"VLDB":
-  url: https://www.vldb.org/
-  # color: "#00369f"
+"PhysRev":
+  url: https://journals.aps.org/
 
-"IPDPS":
-  url: https://www.vldb.org/
-  # color: "#00369f"
-
-"IJCNN":
-  url: https://www.vldb.org/
-  # color: "#00369f"
-
-"Middleware":
-  url: https://www.vldb.org/
-  # color: "#00369f"
-
-"SMC":
-  url: https://www.vldb.org/
-  # color: "#00369f"
+"Vision":
+  color: "#009f36"

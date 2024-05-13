@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: Blog
+title: blog
 nav: true
 nav_order: 1
 pagination:
@@ -24,8 +24,8 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <h2><a href="{{ tag | slugify | prepend: '/blog/' | relative_url }}">{{ site.blog_name }}</a></h2>
-    <h3>{{ site.blog_description }}</h3>
+    <h1>{{ site.blog_name }}</h1>
+    <h2>{{ site.blog_description }}</h2>
   </div>
   {% endif %}
 
