@@ -8,3 +8,4 @@ lighthouse_results/**
 **/*.md
 **/*.liquid
 **/*.yml
+**/*.html
