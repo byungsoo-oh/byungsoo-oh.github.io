@@ -20,4 +20,4 @@ Hi! I am a first-year PhD student in [Computer Science](https://www.cs.cornell.e
 
 Previously, I worked at [Samsung Research](https://research.samsung.com/) for 4.5 years, where I conducted research on accelerating systems for ML training.
 I also developed and operated an ML cloud system built on a large-scale GPU infrastructure.
-Prior to that, I earned my M.S. in [Computer Science](https://cs.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/). I received my B.S. in [Computer Science & Engineering](https://cs.sogang.ac.kr/cs/index_new.html) from [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html) with *Summa Cum Laude*.
+Prior to that, I earned my M.S. in [Computer Science](https://cs.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/). I received my B.S. in [Computer Science & Engineering](https://cs.sogang.ac.kr) from [Sogang University](https://wwwe.sogang.ac.kr) with *Summa Cum Laude*.
