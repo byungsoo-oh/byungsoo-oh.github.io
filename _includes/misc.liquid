@@ -1,0 +1,8 @@
+{% assign misc_page = site.pages | where: "permalink", "/misc/" | first %}
+{% if misc_page %}
+  <div>
+    {{ misc_page.content | markdownify }}
+  </div>
+{% else %}
+  <p>Miscellaneous content not found.</p>
+{% endif %}
