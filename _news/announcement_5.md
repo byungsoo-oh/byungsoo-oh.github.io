@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📢 Excited to join Microsoft Research in Redmond as a research intern this summer!
+📢 Will start a research internship at Microsoft Research in Redmond this summer!
