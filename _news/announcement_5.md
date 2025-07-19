@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📢 Started my research internship at [Microsoft Research](https://www.microsoft.com/en-us/research/) in Redmond!
+🌱 Started my research internship at [Microsoft Research](https://www.microsoft.com/en-us/research/) in Redmond!
