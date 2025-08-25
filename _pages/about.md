@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 CS PhD Student @ [Cornell University](https://www.cornell.edu/)
 
-Hi! I am a first-year PhD student in [Computer Science](https://www.cs.cornell.edu/) at [Cornell University](https://www.cornell.edu/), advised by [Prof. Rachee Singh](https://www.racheesingh.com/).
+Hi! I am a second-year PhD student in [Computer Science](https://www.cs.cornell.edu/) at [Cornell University](https://www.cornell.edu/), advised by [Prof. Rachee Singh](https://www.racheesingh.com/).
 My research interests are broadly in machine learning systems and AI infrastructure.
 
 Previously, I worked at [Samsung Research](https://research.samsung.com/), where I conducted research on systems for ML and large-scale data processing, and developed an ML-as-a-Service platform on GPU infrastructure.
