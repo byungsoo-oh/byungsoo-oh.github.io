@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 [Our paper](https://www.usenix.org/conference/atc24/presentation/um) has been accepted to [USENIX ATC 2024](https://www.usenix.org/conference/atc24)!
+🎉 [Metis](https://www.usenix.org/conference/atc24/presentation/um) has been accepted to [USENIX ATC 2024](https://www.usenix.org/conference/atc24)!
