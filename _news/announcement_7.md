@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 [FlashDMoE](https://arxiv.org/abs/2506.04667) has been accepted to [NeurIPS 2025](https://neurips.cc/Conferences/2025)!
+🎉 [FlashMoE](https://openreview.net/forum?id=EZfDHprhZM) has been accepted to [NeurIPS 2025](https://neurips.cc/Conferences/2025)!
